@@ -8,3 +8,6 @@ Due to memory constraints, I am unable to include data in this repository. Code 
 
 ### irulan.py
 ... is a Python script containing useful functions. Most Jupyter notebooks in this repository rely on functions from here. 
+
+### Word Shift Plots
+This folder includes plot of the word shifts included in the thesis. These plots quantify the change in sentiment or difference in Tsallis entropy of the top words. 
